@@ -1,2 +1,2 @@
-# javascript-practice
-This Project is for practice
+# Javascript Practice
+This Project is for practice!!!!
